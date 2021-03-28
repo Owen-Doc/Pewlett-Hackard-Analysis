@@ -12,7 +12,7 @@ The purpose of this analysis is to provide high level summaries for Pewlett Hack
 
 *Based on the critera of being currently employed and born in the year 1965, the mentorship program only has 1550 eligible employees. That means that every potential mentor would have 15-20 pupils under their guidance. Clearly, the mentorship eligibility criteria must be expanded and rethought as the demand for mentors very strongly outpaces supply. 
 
-# 
+#  Summary
 There are 41,380 employees that will be retiring in the coming "Silver Tsunami". Senior engineers (29,414 retiring) comprise the largest portion of this cohort, followed closely by senior staff (28,254 retiring). As these are all extremely technical roles, training and development should be at the forefront of decision making both for current employees who may be promoted to fill these senior roles, and for back filling these newly promoted positions. Marketing and recruiting efforts on college campuses, LinkedIn, and other job board sites should be immediately scaled up to begin filling assistant engineer positions, so that current assistant engineers can be promoted without leaving any positions empty. 
 As of now, there are not currently enough qualified, retirement ready employees in the departments to mentor the next group of employees. This table provides a count of potential mentors by title.
 
