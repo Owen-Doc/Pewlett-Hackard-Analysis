@@ -17,4 +17,5 @@ There are 41,380 employees that will be retiring in the coming "Silver Tsunami".
 As of now, there are not currently enough qualified, retirement ready employees in the departments to mentor the next group of employees. This table provides a count of potential mentors by title.
 
 ![mentor_count_by_title](https://user-images.githubusercontent.com/76958825/112767484-02ab5e00-8fe5-11eb-8126-3687fa8e8fc8.png)
+
 There is a large disparity between the number of soon to be open senior engineer positions and the number of senior engineers available to mentor. There are almost 30,000 senior engineers retiring, and only 270 mentors available. This means that each mentor would have over 100 people to mentor each. If the mentor program is designed to be a part time job - that will prove to be a difficult proposition to get employees to participate in. Pewlett Hackard executives should explore the mentorship job differently - How many senior engineers can one mentor provide mentorship to? Working backwards to establish the desired number can allow the analytics team to change the mentor selection criteria and lead the program to success.
